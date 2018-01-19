@@ -21,7 +21,7 @@ import __builtin__
 # CONFIGURATION VARIABLES
 # -----------------------
 # change these to suit your addons
-root_xml_url = "https://raw.githubusercontent.com/imfa1se/repository.tronics/master/main.xml"  # url of the root xml file
+root_xml_url = "https://raw.githubusercontent.com/imfa1se/repository.flyb/master/main.xml"  # url of the root xml file
 __builtin__.tvdb_api_key = ""  # tvdb api key
 __builtin__.tmdb_api_key = ""  # tmdb api key
 __builtin__.trakt_client_id = ""  # trakt client id
