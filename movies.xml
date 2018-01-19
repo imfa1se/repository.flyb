@@ -1,5 +1,5 @@
 <item>
-        <title>Hi</title>
+        <title>Jan 18th Update</title>
         <meta>
                 <content></content>
                 <imdb></imdb>
@@ -45,7 +45,20 @@
         <animated_fanart></animated_fanart>        
         <fanart></fanart></item>
 </item>
-
+<item>        
+        <title>Jigsaw</title>        
+        <meta>                
+                <content>movie</content>                
+                <imdb>tt3348730</imdb>                
+                <title>Jigsaw</title>                
+                <year>2017</year>        
+        </meta>        
+        <link>                
+                <sublink>search</sublink>                
+                <sublink>searchsd</sublink>        
+        </link>        
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNmRiZDM4ZmMtOTVjMi00YTNlLTkyNjMtMjI2OTAxNjgwMWM1XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_UY1200_CR74,0,630,1200_AL_.jpg</thumbnail>
+</item>
 
 
 
