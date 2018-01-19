@@ -34,7 +34,28 @@
          <animated_fanart></animated_fanart> 
          <fanart></fanart> 
  </item> 
-
+ <item>          
+       <title>Vikings S03E02</title>          
+          <meta>                  
+                   <content>episode</content>                  
+                   <imdb></imdb>                  
+                   <tvdb></tvdb>                  
+                   <tvshowtitle>Vikings</tvshowtitle>                  
+                   <year></year>                 
+                   <title>Vikings S03E02</title>                 
+                   <premiered></premiered>                 
+                   <season>3</season>                 
+                   <episode>2</episode>         
+          </meta>          
+          <link>                 
+                   <sublink>search</sublink>                 
+                   <sublink>searchsd</sublink>         
+          </link>         
+          <animated_thumbnail></animated_thumbnail>         
+          <thumbnail></thumbnail>         
+          <animated_fanart></animated_fanart>         
+          <fanart></fanart>  
+</item>
 
 
 
