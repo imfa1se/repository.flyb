@@ -4,7 +4,7 @@
 
 <dir>
 <name>Movies</name>
-<link>https://raw.githubusercontent.com/imfa1se/repository.flynntronics/master/movies.xml</link>
+<link>https://raw.githubusercontent.com/imfa1se/repository.flyb/master/movies.xml</link>
 <thumbnail></thumbnail>
 <summary>testing movies out</summary>
 </dir>
@@ -15,10 +15,3 @@
 <thumbnail></thumbnail>
 <summary>testing tv out</summary>
 </dir>
-
-<plugin>
-  <name>30702</name>
-  <link>plugin://plugin.video.jen/?action=search</link>
-  <thumbnail></thumbnail>
-  <summary>Search for Jen Addon</summary>
-</plugin>
