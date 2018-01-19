@@ -1,0 +1,41 @@
+<item>
+        <title>Updated On Jan 18th</title>
+        <meta>
+                <content></content>
+                <imdb></imdb>
+                <title></title>
+                <year></year>
+        </meta>
+        <link>
+                <sublink></sublink>
+                <sublink></sublink>
+        </link>        
+</item>
+<item>
+        <title>Vikings</title>
+        <meta>
+                <content>episode</content>
+                <imdb></imdb>
+                <tvdb></tvdb>
+                <tvshowtitle>Vikings</tvshowtitle>
+                <year>2013</year>
+                <title></title>
+                <premiered></premiered>
+                <season>1</season>
+                <episode>1</episode>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</item>
+
+
+
+
+
+
