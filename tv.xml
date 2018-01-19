@@ -33,7 +33,22 @@
         <animated_fanart></animated_fanart>
         <fanart></fanart>
 </item>
-
+<dir>
+        <name></name>
+        <meta>
+                <content>season</content>
+                <imdb></imdb>
+                <tvdb></tvdb>
+                <tvshowtitle></tvshowtitle>
+                <year></year>
+                <season></season>
+        </meta>
+        <link></link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
 
 
 
