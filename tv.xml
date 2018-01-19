@@ -11,28 +11,6 @@
                 <sublink></sublink>
         </link>        
 </item>
-<item>
-        <title>Vikings</title>
-        <meta>
-                <content>episode</content>
-                <imdb></imdb>
-                <tvdb></tvdb>
-                <tvshowtitle>Vikings</tvshowtitle>
-                <year>2013</year>
-                <title></title>
-                <premiered></premiered>
-                <season>1</season>
-                <episode>1</episode>
-        </meta>
-        <link>
-                <sublink>search</sublink>
-                <sublink>searchsd</sublink>
-        </link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
-</item>
 <dir>
         <name>Vikings Season 3</name>
         <meta>
@@ -43,7 +21,7 @@
                 <year></year>
                 <season>3</season>
         </meta>
-        <link></link>
+        <link>https://raw.githubusercontent.com/imfa1se/repository.flyb/master/vikings03.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail></thumbnail>
         <animated_fanart></animated_fanart>
