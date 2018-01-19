@@ -1,5 +1,5 @@
 <item>
-        <title>Updated On</title>
+        <title>Updated On Jan 18th</title>
         <meta>
                 <content></content>
                 <imdb></imdb>
@@ -79,7 +79,74 @@
         <animated_fanart></animated_fanart>        
         <fanart></fanart></item>
 </item>
-
+<item>        
+        <title>Blade Runner 2049</title>        
+        <meta>                
+                <content>movie</content>                
+                <imdb>tt1856101</imdb>                
+                <title>Blade Runner 2049</title>                
+                <year>2017</year>        
+        </meta>        
+        <link>                
+                <sublink>search</sublink>                
+                <sublink>searchsd</sublink>        
+        </link>        
+        <animated_thumbnail></animated_thumbnail>        
+        <thumbnail></thumbnail>        
+        <animated_fanart></animated_fanart>        
+        <fanart></fanart></item>
+</item>
+<item>        
+        <title>Darkest Hour</title>        
+        <meta>                
+                <content>movie</content>                
+                <imdb>tt4555426</imdb>                
+                <title>Darkest Hour</title>                
+                <year>2017</year>        
+        </meta>        
+        <link>                
+                <sublink>search</sublink>                
+                <sublink>searchsd</sublink>        
+        </link>        
+        <animated_thumbnail></animated_thumbnail>        
+        <thumbnail></thumbnail>        
+        <animated_fanart></animated_fanart>        
+        <fanart></fanart></item>
+</item>
+<item>        
+        <title>Bright</title>        
+        <meta>                
+                <content>movie</content>                
+                <imdb>tt5519340</imdb>                
+                <title>Bright</title>                
+                <year>2017</year>        
+        </meta>        
+        <link>                
+                <sublink>search</sublink>                
+                <sublink>searchsd</sublink>        
+        </link>        
+        <animated_thumbnail></animated_thumbnail>        
+        <thumbnail></thumbnail>        
+        <animated_fanart></animated_fanart>        
+        <fanart></fanart></item>
+</item>
+<item>        
+        <title>Lady Bird</title>        
+        <meta>                
+                <content>movie</content>                
+                <imdb>tt4925292</imdb>                
+                <title>Lady Bird</title>                
+                <year>2017</year>        
+        </meta>        
+        <link>                
+                <sublink>search</sublink>                
+                <sublink>searchsd</sublink>        
+        </link>        
+        <animated_thumbnail></animated_thumbnail>        
+        <thumbnail></thumbnail>        
+        <animated_fanart></animated_fanart>        
+        <fanart></fanart></item>
+</item>
 
 
 
