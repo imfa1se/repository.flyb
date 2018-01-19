@@ -34,14 +34,14 @@
         <fanart></fanart>
 </item>
 <dir>
-        <name></name>
+        <name>Vikings Season 3</name>
         <meta>
                 <content>season</content>
                 <imdb></imdb>
                 <tvdb></tvdb>
-                <tvshowtitle></tvshowtitle>
+                <tvshowtitle>Vikings</tvshowtitle>
                 <year></year>
-                <season></season>
+                <season>3</season>
         </meta>
         <link></link>
         <animated_thumbnail></animated_thumbnail>
