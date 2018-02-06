@@ -28,7 +28,15 @@
         <fanart></fanart>
 </dir>
 
-
-
+<dir>
+        <name>Charmed Season 08</name>
+        <meta>
+                <content>season</content>
+                <imdb></imdb>
+                <tvdb></tvdb>
+                <tvshowtitle>Charmed</tvshowtitle>
+                <year></year>
+                <season>8</season>
+</dir>
 
 
